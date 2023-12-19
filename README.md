@@ -1,5 +1,5 @@
 # ts-nextjs-travel-app
-An application I built to learn TypeScript and Nextjs
+An application UI I built to learn TypeScript and Nextjs
 
 ## Technologies Used:
 * TypeScript
